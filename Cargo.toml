@@ -6,3 +6,5 @@ description = "Epidemic gossip protocol for GPU cluster state with ternary infec
 license = "MIT"
 
 [dependencies]
+repository = "https://github.com/SuperInstance/ternary-epidemic"
+documentation = "https://docs.rs/ternary-epidemic"
