@@ -1,0 +1,8 @@
+[package]
+name = "ternary-epidemic"
+version = "0.1.0"
+edition = "2021"
+description = "Epidemic gossip protocol for GPU cluster state with ternary infection states. Push-pull propagation, convergence detection, rumor mongering."
+license = "MIT"
+
+[dependencies]
