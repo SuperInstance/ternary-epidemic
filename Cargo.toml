@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Epidemic gossip protocol for GPU cluster state with ternary infection states. Push-pull propagation, convergence detection, rumor mongering."
 license = "MIT"
-
-[dependencies]
 repository = "https://github.com/SuperInstance/ternary-epidemic"
 documentation = "https://docs.rs/ternary-epidemic"
+
+[dependencies]
